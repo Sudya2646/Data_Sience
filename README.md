@@ -1,2 +1,2 @@
 # Data_Sience
-All you should Know about Data Science
+All things you should Know about Data Science
